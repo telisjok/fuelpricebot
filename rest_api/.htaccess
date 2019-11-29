@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Fuelprices API"
+AuthUserFile /home/benzinig/public_html/rest_api/.htpasswd
+Require valid-user

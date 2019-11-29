@@ -1,0 +1,24 @@
+SimpleXMLElement Object ( 
+ 	[station] => 2 
+ 	[name] => ΕΡΜΗΣ ΑΕΜΕΕ ΥΠ/ΜΑ ΛΕΝΟΡΜΑΝ 
+ 	[address] => SimpleXMLElement Object ( 
+									[fulladdress] => ΛΕΝΟΡΜΑΝ 187-191 ΑΘΗΝΑ 
+									[zipcode] => 10442 
+									[dd] => SimpleXMLElement Object ( 
+																[code] => A1010400 
+																[dd_descr] => Δ' Δ.Δ. Δήμου Αθηναίων (Ακ. Πλάτωνος - Κολωνός - Σεπόλια) 
+																[dimos_descr] => ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ 
+																[nomos_descr] => ΝΟΜΑΡΧΙΑ ΑΘΗΝΩΝ 
+															) 
+								) 
+	[product] => SimpleXMLElement Object ( 
+									[code] => 11 
+									[description] => Shell Αμόλυβδη Ενισχυμένη 95 οκτανίων 
+								) 
+	[price] => 1.518 
+	[timestamp] => 1570538573583 
+	[company] => SimpleXMLElement Object ( 
+									[code] => 2 
+									[name] => SHELL 
+								) 
+)
